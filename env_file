@@ -1,0 +1,5 @@
+//Renomear .env
+
+module.exports = {
+    authSecret: '5fas@*ofia&nfa!'        
+}
